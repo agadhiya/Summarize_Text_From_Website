@@ -11,8 +11,8 @@ groq_api_key = "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"
 ## Streamlit App
 
 ## #Title of the app
-st.set_page_config(page_title="Summarize Text From Website")
-st.title("Summarize Text From Website")
+st.set_page_config(page_title="ChatBot To Summarize Text From Website")
+st.title("ChatBot To Summarize Text From Website")
 
 ## Get the URL to be summarized
 generic_url = st.text_input("Enter URL:")
