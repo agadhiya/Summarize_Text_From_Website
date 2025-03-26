@@ -1,0 +1,8 @@
+langchain-openai
+langchain
+python-dotenv
+langchain_community
+langchain-groq
+validators
+youtube_transcript_api
+unstructured
