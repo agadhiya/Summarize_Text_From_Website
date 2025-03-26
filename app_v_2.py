@@ -14,12 +14,6 @@ groq_api_key = "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"
 st.set_page_config(page_title="Summarize Text From Website")
 st.title("Summarize Text From Website")
 
-# Open the image using Pillow
-img = Image.open("logo.jpg")
-img_resized = img.resize((700, 300))
-# Display the company logo in the sidebar
-st.sidebar.image(img_resized, use_container_width=True)   
-
 ## Get the URL to be summarized
 generic_url = st.text_input("Enter URL:")
 
