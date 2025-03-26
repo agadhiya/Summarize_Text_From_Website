@@ -1,8 +1,6 @@
-langchain-openai
+streamlit
 langchain
-python-dotenv
 langchain_community
 langchain-groq
 validators
-youtube_transcript_api
 unstructured
