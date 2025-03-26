@@ -11,9 +11,8 @@ groq_api_key = "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"
 ## Streamlit App
 
 ## #Title of the app
-st.set_page_config(page_title="Somic: Summarize Text From Website")
-st.title("Somic: Summarize Text From Website")
-#st.markdown("<h1 style='color: red;'>Somic: Summarize Text From The Website</h1>", unsafe_allow_html=True)
+st.set_page_config(page_title="Summarize Text From Website")
+st.title("Summarize Text From Website")
 
 # Open the image using Pillow
 img = Image.open("logo.jpg")
